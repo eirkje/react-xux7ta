@@ -1,0 +1,20 @@
+{
+  "name": "zmds5x--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@antv/l7": "^2.13.1",
+    "@antv/l7-maps": "^2.13.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
